@@ -1,0 +1,15 @@
+{
+  "name": "skia-browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "LockVoid",
+  "license": "MIT",
+  "dependencies": {
+    "asyncstorage-down": "^4.2.0",
+    "events": "^3.3.0",
+    "path-browserify": "^1.0.1",
+    "react-native-level-fs": "^3.0.1",
+    "stream-browserify": "^3.0.0"
+  }
+}
